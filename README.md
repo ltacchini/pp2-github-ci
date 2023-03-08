@@ -2,7 +2,7 @@
 
 Esta guía tiene como objetivo explicar los pasos a seguir para configurar la herramienta de integración continua “Github Actions” integrada en la propia interfaz gráfica del repositorio.
 
-Documentación de Gitlab: **[**https://docs.gitlab.com/ee/ci/quick_start/](https://docs.github.com/en/actions/quickstart)
+Documentación de Github: [https://docs.gitlab.com/ee/ci/quick_start/](https://docs.github.com/en/actions/quickstart)
 
 # Paso a paso con Java y Gradle
 
