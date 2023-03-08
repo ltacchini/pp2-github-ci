@@ -8,12 +8,12 @@ Documentación de Github: [https://docs.gitlab.com/ee/ci/quick_start/](https://d
 
 Para la realización de la presente guía se utilizará como ejemplo un proyecto Java que utiliza el gestor de dependencias a Gradle.
 
-Gitlab-ci cuenta con entornos virtuales llamados *runners* que se encargan de preparar el ambiente de ejecución para poder correr el *build* y los casos de *test* del proyecto.
+Github Actions cuenta con entornos virtuales llamados *runners* que se encargan de preparar el ambiente de ejecución para poder correr el *build* y los casos de *test* del proyecto.
 
 ### Setup
 
 1. Crear un proyecto Gradle en *Eclipse for Java Developers* (Version: 2018-12 (4.10.0) o superior).
-2. Crear un repositorio en Gitlab y ejecutar git push del proyecto Gradle al repositorio.
+2. Crear un repositorio en Github y ejecutar git push del proyecto Gradle al repositorio.
 
 ### Activar Github Actions
 
