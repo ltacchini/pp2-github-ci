@@ -164,10 +164,10 @@ jobs:
 
 Tener en cuenta que para que la última tarea de ejecución funcione debemos generar y configurar un TOKEN de seguridad para nuestro repositorio: 
 
-![images/screenshot1.png]()
+![screenshot1](./screenshot1.png)
 
 Cómo resultado final, se puede observar el resultado de los tests con el siguiente formato: 
 
-![images/screenshot2.png]()
+![screenshot2](./screenshot2.png)
 
 #
